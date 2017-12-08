@@ -1,5 +1,5 @@
 	title	BirthdayBox Controller Program
-;This program randomly flashes LED's on a birthday gift box  4.6V Battery powered!
+;This program randomly flashes LED's on a birthday gift box  4.6V Battery powered.
 ;
 ;USES LP (Low Power) 32kHz CRYSTAL!!
 
